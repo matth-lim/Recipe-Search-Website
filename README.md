@@ -1,6 +1,6 @@
 # Recipe-Search-Website
 
-This project was a beginner project I did to help me understand the basics of making a small, full-stack Node.js app that integrates with an external service, handles user input, and displays data dynamically in the browser. This project is a recipe search website with a basic UI and the user can search for any type of keywords in food (chicken, vegetables, fish etc.) then the application will make an API call to Edamam API to fetch data and display it in the website. Overall, this was a great learning experience for me in developing web applications. 
+This project was a beginner project I did to help me understand the basics of making a small, full-stack Node.js web application that integrates with an external service, handles user input, and displays data dynamically in the browser. This project is a recipe search website with a basic UI and the user can search for any type of keywords in food (chicken, vegetables, fish etc.) then the application will make an API call to Edamam API to fetch data and display it in the website. Overall, this was a great learning experience for me in developing web applications. 
 
 Concepts learned:
 - Creating a basic server: Used Express to handle GET and POST requests with Express routes (app.get, app.post)
