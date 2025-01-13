@@ -13,13 +13,13 @@ Below shows a demo for the program.
 
 <br>
 <div align="center">
-    <img src="Demo/demo_1.png" alt="Demo 1" width="500">
+    <img src="Demo/demo_1.png" alt="Demo 1" width="700">
 </div>
 <br>
 <div align="center">
-    <img src="Demo/demo_2.png" alt="Demo 2" width="300">
+    <img src="Demo/demo_2.png" alt="Demo 2" width="700">
 </div>
 <br>
 <div align="center">
-    <img src="Demo/demo_3.png" alt="Demo 3" width="300">
+    <img src="Demo/demo_3.png" alt="Demo 3" width="700">
 </div>
